@@ -1,0 +1,11 @@
+@import '~antd/dist/antd.css';
+
+.editable-row .ant-form-item-explain {
+  position: absolute;
+  top: 100%;
+  font-size: 12px;
+}
+
+.ant-pagination .ant-table-pagination .ant-table-pagination-right {
+  color: red !important;
+}
