@@ -1,15 +1,35 @@
-import React from 'react';
 import { Table, Input, Button, Space } from 'antd';
-
 import Highlighter from 'react-highlight-words';
 import { SearchOutlined } from '@ant-design/icons';
 
-import originData from './db'
+const data = [
+    {
+        key: '1',
+        name: 'John Brown',
+        age: 32,
+        address: 'New York No. 1 Lake Park',
+    },
+    {
+        key: '2',
+        name: 'Joe Black',
+        age: 42,
+        address: 'London No. 1 Lake Park',
+    },
+    {
+        key: '3',
+        name: 'Jim Green',
+        age: 32,
+        address: 'Sidney No. 1 Lake Park',
+    },
+    {
+        key: '4',
+        name: 'Jim Red',
+        age: 32,
+        address: 'London No. 2 Lake Park',
+    },
+];
 
-import './table.css'
-
-
-class MyTable extends React.Component {
+class App extends React.Component {
     state = {
         searchText: '',
         searchedColumn: '',
@@ -37,10 +57,10 @@ class MyTable extends React.Component {
                         style={{ width: 90 }}
                     >
                         Search
-                    </Button>
+          </Button>
                     <Button onClick={() => this.handleReset(clearFilters)} size="small" style={{ width: 90 }}>
                         Reset
-                    </Button>
+          </Button>
                 </Space>
             </div>
         ),
@@ -83,49 +103,28 @@ class MyTable extends React.Component {
     render() {
         const columns = [
             {
-                title: 'name',
+                title: 'Name',
                 dataIndex: 'name',
-                width: '15%',
-                editable: true,
-                ...this.getColumnSearchProps.call(this, 'name')
-            },
-            {
-                title: 'factory',
-                dataIndex: 'factory',
-                width: '25%',
-                editable: true,
-                ...this.getColumnSearchProps.call(this, 'factory')
-            },
-            {
-                title: 'address',
-                dataIndex: 'address',
+                key: 'name',
                 width: '30%',
-                editable: true,
-                ...this.getColumnSearchProps.call(this, 'address')
+                ...this.getColumnSearchProps('name'),
             },
             {
-                title: 'advantage',
-                dataIndex: 'advantage',
-                editable: true,
+                title: 'Age',
+                dataIndex: 'age',
+                key: 'age',
+                width: '20%',
+                ...this.getColumnSearchProps('age'),
+            },
+            {
+                title: 'Address',
+                dataIndex: 'address',
+                key: 'address',
+                ...this.getColumnSearchProps('address'),
             },
         ];
-        return (
-            <div className="tableBox">
-                <Table 
-                    columns={columns}
-                    dataSource={originData}
-                    expandable={{
-                        expandedRowRender: record => <p style={{ margin: 0 }}>{record.contacts}</p>,
-                        rowExpandable: record => record.name !== 'Not Expandable',
-                    }}
-                    bordered
-                    title={() => '明洋金属供应商'}
-                    pagination={{position: ['bottomCenter']}}
-                />
-            </div>
-        );
+        return <Table columns={columns} dataSource={data} />;
     }
 }
 
-
-export default MyTable;
+ReactDOM.render(<App />, mountNode);
