@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Table, Input, InputNumber, Popconfirm, Form, Button, Space, message } from 'antd';
 
 import Highlighter from 'react-highlight-words';
@@ -209,18 +209,21 @@ const MyTable = () => {
             dataIndex: 'factory',
             width: '20%',
             editable: true,
+            ...getColumnSearchProps.call(this, 'factory')
         },
         {
             title: 'address',
             dataIndex: 'address',
             width: '25%',
             editable: true,
+            ...getColumnSearchProps.call(this, 'address')
         },
         {
             title: 'contacts',
             dataIndex: 'contacts',
             width: '10%',
             editable: true,
+            ...getColumnSearchProps.call(this, 'contacts')
         },
         {
             title: 'phone',
@@ -283,7 +286,7 @@ const MyTable = () => {
         };
     });
     return (
-        <div>
+        <div className="tableBox">
             <Button
                 onClick={handleAdd}
                 type="primary"
