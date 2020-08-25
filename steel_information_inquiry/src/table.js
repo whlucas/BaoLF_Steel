@@ -131,7 +131,7 @@ class MyTable extends React.Component {
                             showQuickJumper: true
                         }
                     }
-                    scroll={{ y: 400 }}
+                    // scroll={{ y: 400 }}
                 />
                 <footer>
                     <div className="footer">
