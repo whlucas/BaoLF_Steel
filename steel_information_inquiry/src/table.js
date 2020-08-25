@@ -1,5 +1,5 @@
 import React from 'react';
-import { Table, Input, Button, Space } from 'antd';
+import { Table, Input, Button, Space, PageHeader } from 'antd';
 
 import Highlighter from 'react-highlight-words';
 import { SearchOutlined } from '@ant-design/icons';
@@ -111,6 +111,10 @@ class MyTable extends React.Component {
         ];
         return (
             <div className="tableBox">
+                <div className="header">
+                    <span className="title">BAOLF STEEL</span>
+                    <span className="subTitle">Supplier inquiry system</span>
+                </div>
                 <Table 
                     columns={columns}
                     dataSource={originData}
@@ -119,10 +123,24 @@ class MyTable extends React.Component {
                         rowExpandable: record => record.name !== 'Not Expandable',
                     }}
                     bordered
-                    title={() => '明洋金属供应商'}
-                    pagination={{position: ['bottomCenter']}}
+                    pagination={
+                        {
+                            position: ['bottomCenter'],
+                            defaultPageSize: 10,
+                            pageSizeOptions: [6, 7, 8, 10, 20 ,50, 100],
+                            showQuickJumper: true
+                        }
+                    }
+                    scroll={{ y: 400 }}
                 />
+                <footer>
+                    <div className="footer">
+                        <div>CopyRight 2020 All Right Reserved Tianjin Baolf Steel Co.,Limited&nbsp;</div>
+                        <div>Add: North of Fuyuan Road Wuqing Industrial Zone Tianjin China &nbsp;Tel: +86-22-29353313 &nbsp;Fax: +86-22-29353313&nbsp;</div>
+                    </div>
+                </footer>
             </div>
+            
         );
     }
 }

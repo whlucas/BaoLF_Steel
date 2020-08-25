@@ -7,3 +7,41 @@
 .tableBox {
     margin: 10px 10px;
 }
+
+.footer {
+    display: flex;
+    flex-direction: column
+}
+.footer div {
+    justify-content: center;
+    text-align: center;
+}
+
+.ant-page-header {
+    padding: 10px 24px;
+}
+
+.header {
+    margin-bottom: 10px;
+}
+.header .title {
+    margin: 12px;
+    margin-bottom: 0;
+    color: rgba(0, 0, 0, 0.85);
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 32px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.header .subTitle{
+    margin-right: 12px;
+    color: rgba(0, 0, 0, .45);
+    font-size: 14px;
+    line-height: 1.5715;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

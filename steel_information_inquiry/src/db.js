@@ -790,6 +790,959 @@ const originData = [
         contacts: '13622012278',
         advantage: ''
     },
+    {
+        key: '96',
+        name: 'C/Z/U型钢 几字钢',
+        factory: '鼎舜冷弯',
+        address: '静海县良王庄',
+        contacts: '安智慧 13821459777',
+        advantage: 'CZU型钢'
+    },
+    {
+        key: '97',
+        name: '厚壁超大方矩管',
+        factory: '广信钢铁',
+        address: '大邱庄工业开发区',
+        contacts: '68669127 68669255',
+        advantage: ''
+    },
+    {
+        key: '98',
+        name: '厚壁超大方矩管',
+        factory: '源宇金属',
+        address: '静海县大邱庄',
+        contacts: '赵阳 15222721111',
+        advantage: ''
+    },
+    {
+        key: '99',
+        name: '光伏支架',
+        factory: '仁汇',
+        address: '静海',
+        contacts: '刘经理 13702148440',
+        advantage: ''
+    },
+    {
+        key: '100',
+        name: '光伏支架',
+        factory: '天津泰达',
+        address: '大邱庄',
+        contacts: '小马	18526726762',
+        advantage: ''
+    },
+    {
+        key: '101',
+        name: '光伏支架',
+        factory: '天津市正德远钢铁贸易有限公司',
+        address: '天津市静海区大邱庄镇大屯村东1000米  ',
+        contacts: '张子彦 13299997206',
+        advantage: ''
+    },
+    {
+        key: '102',
+        name: '钢板',
+        factory: '润驰钢板 ',
+        address: '唐山',
+        contacts: '宋春宇 18732586949',
+        advantage: ''
+    },
+    {
+        key: '103',
+        name: '钢板',
+        factory: '迁安市仁泰金属制品有限公司 ',
+        address: '唐山',
+        contacts: '王秀娟 18632506967',
+        advantage: ''
+    },
+    {
+        key: '104',
+        name: '钢板',
+        factory: '唐山中环贸易有限公司 ',
+        address: '河北唐山丰润区',
+        contacts: '王帝 15033372723',
+        advantage: ''
+    },
+    {
+        key: '105',
+        name: '钢板',
+        factory: '天津市盛龙发钢铁贸易有限公司',
+        address: '天津市东丽区军粮城宝仓路丽兴物流园B8下',
+        contacts: '王先生 18322239712',
+        advantage: ''
+    },
+    {
+        key: '106',
+        name: '钢板',
+        factory: '五矿钢铁天津有限公司',
+        address: '天津市河西区马场道',
+        contacts: '022-83865986',
+        advantage: ''
+    },
+    {
+        key: '107',
+        name: '钢板',
+        factory: '天津市赛特商贸有限公司',
+        address: '天津市北辰区中储大厦',
+        contacts: '刘志强 13821775539',
+        advantage: ''
+    },
+    {
+        key: '108',
+        name: '钢板',
+        factory: '天津市鑫祺基金属材料贸易有限公司',
+        address: '天津市东丽区军粮城',
+        contacts: '赵伟 刘凤莲	022-24910346 24850203 24850138',
+        advantage: ''
+    },
+    {
+        key: '109',
+        name: '特殊钢板',
+        factory: '天津市益钢贸易发展有限公司',
+        address: '国际金属物流园',
+        contacts: '赵宗利	18920029781  13802121869',
+        advantage: ''
+    },
+    {
+        key: '110',
+        name: '钢板',
+        factory: '天津市浩维钢铁贸易公司',
+        address: '天津市东丽区古镇物流园',
+        contacts: '付兰浩	13672027555  15122596955',
+        advantage: ''
+    },
+    {
+        key: '111',
+        name: '钢板',
+        factory: '天津华益晟钢铁贸易有限公司',
+        address: '天津市东丽区新世嘉大厦',
+        contacts: '王琳莉	13920948898',
+        advantage: ''
+    },
+    {
+        key: '112',
+        name: '钢板',
+        factory: '天津市华建安泰商贸有限公司',
+        address: '天津市西青区',
+        contacts: '刘经理	13821141199  18522145199',
+        advantage: '中厚板切割批发'
+    },
+    {
+        key: '113',
+        name: '合金耐磨钢板',
+        factory: '天津派旺钢材',
+        address: '天津市',
+        contacts: '13821103369',
+        advantage: '合金耐磨 42CrMo 40Cr 65Mn'
+    },
+    {
+        key: '114',
+        name: '耐候钢板',
+        factory: '申强耐候钢板',
+        address: '天津市',
+        contacts: '孟 13920603833',
+        advantage: ''
+    },
+    {
+        key: '115',
+        name: '钢板',
+        factory: '佳源板材',
+        address: '河北唐山',
+        contacts: '0315-7839888',
+        advantage: ''
+    },
+    {
+        key: '116',
+        name: '钢板',
+        factory: '天津储鑫盛钢材销售有限公司',
+        address: '天津市武清区下朱庄钢铁城',
+        contacts: '肖经理 15022113717',
+        advantage: ''
+    },
+    {
+        key: '117',
+        name: '冷轧钢板',
+        factory: '天津宝澳钢材加工有限公司',
+        address: '天津市北辰区',
+        contacts: '王经理	13802105338',
+        advantage: ''
+    },
+    {
+        key: '118',
+        name: '冷轧钢板',
+        factory: '迁安市思文科德薄板科技有限公司',
+        address: '河北省迁安市',
+        contacts: '马壮	18931587018',
+        advantage: ''
+    },
+    {
+        key: '119',
+        name: '冷轧钢板',
+        factory: '天津冶金轧一国际贸易',
+        address: '天津市',
+        contacts: '022-58688830',
+        advantage: ''
+    },
+    {
+        key: '120',
+        name: '冷轧钢板',
+        factory: '聚仁薄板',
+        address: '天津市',
+        contacts: '18602261276',
+        advantage: ''
+    },
+    {
+        key: '121',
+        name: '热轧薄板、冷轧薄板',
+        factory: '邱钢',
+        address: '天津市大邱庄工业区',
+        contacts: '李建	18526769688 18920078222',
+        advantage: ''
+    },
+    {
+        key: '122',
+        name: '容器板、中板、卷板、锰板',
+        factory: '邯郸博富钢铁贸易',
+        address: '邯郸',
+        contacts: '任 13313207168',
+        advantage: ''
+    },
+    {
+        key: '123',
+        name: '无缝管',
+        factory: '汇科',
+        address: '河北',
+        contacts: 'Hiram 李	13389978988',
+        advantage: ''
+    },
+    {
+        key: '124',
+        name: '无缝管',
+        factory: '沧州升鼎管道装备有限公司',
+        address: '河北沧州',
+        contacts: '蒋 18931769987',
+        advantage: ''
+    },
+    {
+        key: '125',
+        name: '无缝管',
+        factory: '唐太无缝钢管',
+        address: '河北唐山',
+        contacts: '刘新国 18833322333',
+        advantage: ''
+    },
+    {
+        key: '126',
+        name: '无缝管',
+        factory: '河北圣天无缝钢管',
+        address: '沧州盐山',
+        contacts: '张利彩 18631788561',
+        advantage: ''
+    },
+    {
+        key: '127',
+        name: '不锈钢无缝管',
+        factory: '温州朝阳进出口有限公司',
+        address: '浙江温州',
+        contacts: '黄斌	13587686960',
+        advantage: ''
+    },
+    {
+        key: '128',
+        name: '不锈钢无缝管',
+        factory: '温州赛灵',
+        address: '温州',
+        contacts: '刘小勤 15869601932',
+        advantage: ''
+    },
+    {
+        key: '129',
+        name: '不锈钢无缝管',
+        factory: '银隆-银来-泓泉',
+        address: '温州',
+        contacts: 'Susan Beautyskye',
+        advantage: ''
+    },
+    {
+        key: '130',
+        name: '无缝管',
+        factory: '茂源管业',
+        address: '河北沧州',
+        contacts: '刘雯	13166568682',
+        advantage: ''
+    },
+    {
+        key: '131',
+        name: '花纹板、卷板',
+        factory: '迁安市仁泰金属制品有限公司 ',
+        address: '唐山',
+        contacts: '王秀娟 18632506967',
+        advantage: ''
+    },
+    {
+        key: '132',
+        name: '花纹板',
+        factory: '天津明立达工贸有限公司',
+        address: '天津市静海区大邱庄镇李八庄村东200米',
+        contacts: '朱经理13920099949（微信同步） 刘经理13821908608	',
+        advantage: ''
+    },
+    {
+        key: '133',
+        name: '热轧板',
+        factory: '鑫祺基',
+        address: '天津市东丽区军粮城',
+        contacts: '赵伟，刘凤莲	24910346  24850203',
+        advantage: ''
+    },
+    {
+        key: '134',
+        name: '花纹板',
+        factory: '天津阅历翔钢铁贸易有限公司',
+        address: '天津市东丽区军粮城',
+        contacts: '侯经理 	15122058088',
+        advantage: ''
+    },
+    {
+        key: '135',
+        name: '花纹板',
+        factory: '天津市浩维钢铁贸易公司',
+        address: '天津市东丽区古镇物流园',
+        contacts: '付兰浩	13672027555  15122596955',
+        advantage: ''
+    },
+    {
+        key: '136',
+        name: '花纹板',
+        factory: '天津为昂商贸有限公司',
+        address: '天津市东丽区津塘公路',
+        contacts: '王文龙 15620095510',
+        advantage: ''
+    },
+    {
+        key: '137',
+        name: '镀锌板',
+        factory: '富沃德镀锌板',
+        address: '山东聊城',
+        contacts: '汤占朋 18963565289',
+        advantage: ''
+    },
+    {
+        key: '138',
+        name: '彩涂、压型板',
+        factory: '暂无',
+        address: '山东滨州',
+        contacts: 'zc1444',
+        advantage: ''
+    },
+    {
+        key: '139',
+        name: '镀锌板 彩涂',
+        factory: '星瀚股份',
+        address: '山东聊城',
+        contacts: '张秀欢	15865737639',
+        advantage: ''
+    },
+    {
+        key: '140',
+        name: '镀锌板',
+        factory: '暂无',
+        address: '山东',
+        contacts: '翟 15910066611',
+        advantage: ''
+    },
+    {
+        key: '141',
+        name: '彩涂',
+        factory: '暂无',
+        address: '山东滨州',
+        contacts: '马雪飞 15865224222',
+        advantage: ''
+    },
+    {
+        key: '142',
+        name: '彩涂',
+        factory: '山东金泰利',
+        address: '山东滨州',
+        contacts: '黄雪	13371335020',
+        advantage: ''
+    },
+    {
+        key: '143',
+        name: '卷板中板 花纹板',
+        factory: '唐山市嘉汇贸易有限公司',
+        address: '唐山',
+        contacts: '左坤	18731541118',
+        advantage: ''
+    },
+    {
+        key: '144',
+        name: '镀锌板，高锌层',
+        factory: '海钢板材',
+        address: '大邱庄',
+        contacts: '李经理 13821999789',
+        advantage: ''
+    },
+    {
+        key: '145',
+        name: '压型板',
+        factory: '星光与中捷彩钢',
+        address: '天津大港',
+        contacts: '马海涛 15022094946',
+        advantage: ''
+    },
+    {
+        key: '146',
+        name: '压型板',
+        factory: '天津新宇彩钢',
+        address: '天津',
+        contacts: '18322014995',
+        advantage: ''
+    },
+    {
+        key: '147',
+        name: '钢板',
+        factory: '中盈科技（天津）有限公司',
+        address: '天津市东丽区军粮城',
+        contacts: '022-844-79539',
+        advantage: ''
+    },
+    {
+        key: '148',
+        name: '铝板',
+        factory: '信义通',
+        address: '山东济南',
+        contacts: '邱云鹏 15969710876',
+        advantage: ''
+    },
+    {
+        key: '149',
+        name: '铝板',
+        factory: '凯华铝业',
+        address: '徐州',
+        contacts: '薛静 15152170099',
+        advantage: ''
+    },
+    {
+        key: '150',
+        name: '铝板',
+        factory: '鸿鼎',
+        address: '暂无',
+        contacts: '任淑芬 15106878650',
+        advantage: ''
+    },
+    {
+        key: '151',
+        name: '铝板',
+        factory: '河南祥和铝业',
+        address: '河南郑州',
+        contacts: '周梦	13071063899',
+        advantage: ''
+    },
+    {
+        key: '152',
+        name: '铝板',
+        factory: '舍得铝板',
+        address: '河南巩义',
+        contacts: 'TBALUM',
+        advantage: ''
+    },
+    {
+        key: '153',
+        name: '不锈钢板',
+        factory: '无锡市钧圣金属材料有限公司 ',
+        address: '不锈钢板 靠谱  无锡',
+        contacts: '陈伟权 13771407333',
+        advantage: ''
+    },
+    {
+        key: '154',
+        name: '不锈钢板',
+        factory: '卓润不锈钢',
+        address: '江苏 无锡',
+        contacts: '13338783870',
+        advantage: ''
+    },
+    {
+        key: '155',
+        name: '镀锌带钢',
+        factory: '三钢科技',
+        address: '廊坊',
+        contacts: '孙松	15132604670',
+        advantage: ''
+    },
+    {
+        key: '156',
+        name: '镀锌带钢',
+        factory: '万事达',
+        address: '廊坊',
+        contacts: '郭超	15231653147',
+        advantage: ''
+    },
+    {
+        key: '157',
+        name: '镀锌带钢',
+        factory: '海钢板材',
+        address: '大邱庄',
+        contacts: '李经理 13821999789',
+        advantage: ''
+    },
+    {
+        key: '158',
+        name: '镀锌带 高锌层',
+        factory: '胜方',
+        address: '暂无',
+        contacts: '崔涧松 15100720111',
+        advantage: ''
+    },
+    {
+        key: '159',
+        name: '镀锌带钢',
+        factory: '暂无',
+        address: '暂无',
+        contacts: '华美静 13582788040',
+        advantage: ''
+    },
+    {
+        key: '160',
+        name: '镀锌带钢',
+        factory: '暂无',
+        address: '暂无',
+        contacts: '王桐	17736770842',
+        advantage: ''
+    },
+    {
+        key: '161',
+        name: '镀锌带钢',
+        factory: '霸州市海洪金属制品有限公司',
+        address: '河北省霸州市东段乡中兴园区',
+        contacts: '马超	18099996999',
+        advantage: ''
+    },
+    {
+        key: '162',
+        name: '镀锌带钢',
+        factory: '苏州松辉金属',
+        address: '苏州',
+        contacts: '18914928175',
+        advantage: ''
+    },
+    {
+        key: '163',
+        name: '镀锌带钢',
+        factory: '海钢',
+        address: '大邱庄',
+        contacts: '刘仲强 15822478106',
+        advantage: ''
+    },
+    {
+        key: '164',
+        name: '盘条',
+        factory: '唐山宏忠钢铁',
+        address: '唐山',
+        contacts: '李密	15833450053',
+        advantage: ''
+    },
+    {
+        key: '165',
+        name: '盘条',
+        factory: '北京普德',
+        address: '北京',
+        contacts: '王先生 13426017740',
+        advantage: '安丰国义代理'
+    },
+    {
+        key: '166',
+        name: '镀锌盘条、镀锌圆钢',
+        factory: '盛鑫丰钢铁贸易',
+        address: '天津滨海新区',
+        contacts: '樊 18102036596',
+        advantage: ''
+    },
+    {
+        key: '167',
+        name: '盘条',
+        factory: '广益钢铁',
+        address: '河北邯郸',
+        contacts: '安经理 15030035533',
+        advantage: '中阳/新泰/常平/立恒/高义/星源'
+    },
+    {
+        key: '168',
+        name: '盘条',
+        factory: '唐山骏楠',
+        address: '唐山',
+        contacts: '闫女士 13783612332',
+        advantage: ''
+    },
+    {
+        key: '169',
+        name: '盘条',
+        factory: '唐山宇轩国际贸易',
+        address: '暂无',
+        contacts: '李女士 15690517810',
+        advantage: ''
+    },
+    {
+        key: '170',
+        name: '螺纹钢',
+        factory: '暂无',
+        address: '邯郸',
+        contacts: '宋志辉 13315566488',
+        advantage: ''
+    },
+    {
+        key: '171',
+        name: '螺纹钢',
+        factory: '唐山热联贸易有限公司',
+        address: '北京',
+        contacts: '010-6070018',
+        advantage: ''
+    },
+    {
+        key: '172',
+        name: '螺纹钢',
+        factory: '祥通国际',
+        address: '河东区华龙道',
+        contacts: '13920411512',
+        advantage: ''
+    },
+    {
+        key: '173',
+        name: '螺纹钢',
+        factory: '义信钢铁',
+        address: '北辰区渤海钢材城',
+        contacts: '李峰	15822828252',
+        advantage: ''
+    },
+    {
+        key: '174',
+        name: '螺纹钢',
+        factory: '国泰乾成',
+        address: '北辰区中关村',
+        contacts: '张荣利 13212267858',
+        advantage: ''
+    },
+    {
+        key: '175',
+        name: '螺纹钢',
+        factory: '丰润区明鑫商贸',
+        address: '燕南钢材市场北7号',
+        contacts: '18617866666',
+        advantage: ''
+    },
+    {
+        key: '176',
+        name: '镀锌丝',
+        factory: '暂无',
+        address: '安平',
+        contacts: 'Mr.SIMON	1893182910',
+        advantage: ''
+    },
+    {
+        key: '177',
+        name: '热镀锌丝',
+        factory: '暂无',
+        address: '天津',
+        contacts: '马贞珍 18102030021',
+        advantage: ''
+    },
+    {
+        key: '178',
+        name: '不锈钢丝网',
+        factory: '暂无',
+        address: '暂无',
+        contacts: 'kevin 15931442844',
+        advantage: ''
+    },
+    {
+        key: '179',
+        name: '退火丝 丝网',
+        factory: '暂无',
+        address: '暂无',
+        contacts: '13273328980',
+        advantage: '安平丝网厂家'
+    },
+    {
+        key: '180',
+        name: '法兰、管件、弯头、三通',
+        factory: '鑫广德',
+        address: '河北沧州',
+        contacts: '15373318826',
+        advantage: ''
+    },
+    {
+        key: '181',
+        name: '法兰、管件、弯头、三通',
+        factory: '暂无',
+        address: '河北沧州',
+        contacts: '邢友娜 电话暂无',
+        advantage: ''
+    },
+    {
+        key: '182',
+        name: '法兰、管件、弯头、三通',
+        factory: '锐泰管件',
+        address: '沧州',
+        contacts: '张帅	13930775883',
+        advantage: ''
+    },
+    {
+        key: '183',
+        name: '法兰、管件、弯头、三通',
+        factory: 'GEE',
+        address: '沧州',
+        contacts: '400-885-3728',
+        advantage: ''
+    },
+    {
+        key: '184',
+        name: '不锈钢螺丝',
+        factory: '万千腾驰螺丝',
+        address: '苏州',
+        contacts: '王巧云 051066726647',
+        advantage: ''
+    },
+    {
+        key: '185',
+        name: '螺丝 丝杠 U型螺栓',
+        factory: '邯郸市久涵贸易有限公司',
+        address: '河北邯郸',
+        contacts: '王经理 13363038101',
+        advantage: ''
+    },
+    {
+        key: '186',
+        name: '螺丝 丝杠 U型螺栓',
+        factory: '邯郸市永年区龙宸紧固件制造有限公司',
+        address: '河北邯郸',
+        contacts: 'Vicky 15690009032',
+        advantage: ''
+    },
+    {
+        key: '187',
+        name: '螺丝',
+        factory: '永年紧固件制造有限公司',
+        address: '邯郸',
+        contacts: '13230002208',
+        advantage: ''
+    },
+    {
+        key: '188',
+        name: '螺丝',
+        factory: '中盾紧固件',
+        address: '暂无',
+        contacts: '张星	13082104198',
+        advantage: ''
+    },
+    {
+        key: '189',
+        name: '螺丝',
+        factory: '温州瓯海锅溪坚世紧固件',
+        address: '温州',
+        contacts: '13968836262',
+        advantage: ''
+    },
+    {
+        key: '190',
+        name: '螺丝',
+        factory: '嘉兴海纳紧固件',
+        address: '',
+        contacts: 'Siky	18967309521',
+        advantage: ''
+    },
+    {
+        key: '191',
+        name: '彩涂',
+        factory: '山东金泰利',
+        address: '山东滨州',
+        contacts: '黄雪	13371335020',
+        advantage: ''
+    },
+    {
+        key: '192',
+        name: '卷板中板 花纹板',
+        factory: '唐山市嘉汇贸易有限公司',
+        address: '唐山',
+        contacts: '左坤	18731541118',
+        advantage: ''
+    },
+    {
+        key: '193',
+        name: '镀锌板，高锌层',
+        factory: '海钢板材',
+        address: '大邱庄',
+        contacts: '李经理 13821999789',
+        advantage: ''
+    },
+    {
+        key: '194',
+        name: '压型板',
+        factory: '星光与中捷彩钢',
+        address: '天津大港',
+        contacts: '马海涛 15022094946',
+        advantage: ''
+    },
+    {
+        key: '195',
+        name: '压型板',
+        factory: '天津新宇彩钢',
+        address: '天津',
+        contacts: '18322014995',
+        advantage: ''
+    },
+    {
+        key: '196',
+        name: '钢板',
+        factory: '中盈科技（天津）有限公司',
+        address: '天津市东丽区军粮城',
+        contacts: '022-844-79539',
+        advantage: ''
+    },
+    {
+        key: '197',
+        name: '镀锌板 彩涂',
+        factory: '唐山热轧彩涂镀锌首钢河钢',
+        address: '唐山',
+        contacts: '刘永利 17725532333',
+        advantage: ''
+    },
+    {
+        key: '198',
+        name: '镀锌板 彩涂',
+        factory: '冠县前进有花镀锌彩涂卷',
+        address: '冠县',
+        contacts: '159662588749',
+        advantage: ''
+    },
+    {
+        key: '199',
+        name: '镀锌板 彩涂',
+        factory: '山东恒丰集团',
+        address: '山东',
+        contacts: '张超 电话暂无',
+        advantage: ''
+    },
+    {
+        key: '200',
+        name: '镀锌板 彩涂',
+        factory: '山东烨辉彩涂镀铝锌',
+        address: '山东博兴',
+        contacts: '贾英伟 13371335050',
+        advantage: ''
+    },
+    {
+        key: '201',
+        name: '镀锌板 彩涂',
+        factory: '山东烨辉涂镀',
+        address: '山东滨州',
+        contacts: '崔路强 15314360333',
+        advantage: ''
+    },
+    {
+        key: '202',
+        name: '镀锌板 彩涂',
+        factory: '山东冠洲股份有限公司',
+        address: '山东聊城',
+        contacts: '周立硕 15166505896',
+        advantage: '可以做1277宽度'
+    },
+    {
+        key: '203',
+        name: '镀锌板 彩涂',
+        factory: '鑫鼎立',
+        address: '山东滨州',
+        contacts: '崔志敏 18854306537',
+        advantage: ''
+    },
+    {
+        key: '204',
+        name: '镀锌板 彩涂',
+        factory: '中泰彩板',
+        address: '山东博兴',
+        contacts: '张经理 15854395234',
+        advantage: ''
+    },
+    {
+        key: '205',
+        name: '薄壁管',
+        factory: '廊坊广义薄壁管齐林',
+        address: '河北廊坊',
+        contacts: '齐林	18632638669',
+        advantage: ''
+    },
+    {
+        key: '206',
+        name: '薄壁管',
+        factory: '廊坊诚实薄壁管',
+        address: '河北廊坊',
+        contacts: '13831637865',
+        advantage: ''
+    },
+    {
+        key: '207',
+        name: '薄壁管',
+        factory: '霸州华龙薄壁管',
+        address: '霸州',
+        contacts: '17732618668',
+        advantage: ''
+    },
+    {
+        key: '208',
+        name: '薄壁管',
+        factory: '廊坊薄壁管',
+        address: '河北廊坊',
+        contacts: '郭涛	13103262822',
+        advantage: ''
+    },
+    {
+        key: '209',
+        name: '薄壁管',
+        factory: '永阔金属',
+        address: '河北廊坊',
+        contacts: '仇雅鑫 15132602844',
+        advantage: '可以做0.2的'
+    },
+    {
+        key: '210',
+        name: '不锈钢螺丝',
+        factory: '暂无',
+        address: '江苏盐城',
+        contacts: '胡九青 kim_hu 暂无电话',
+        advantage: ''
+    },
+    {
+        key: '211',
+        name: '夹芯板',
+        factory: '山东宏鑫源钢板有限公司',
+        address: '山东博兴',
+        contacts: '400-1117-0688',
+        advantage: ''
+    },
+    {
+        key: '212',
+        name: '钢绞线',
+        factory: '隆恒',
+        address: '静海',
+        contacts: '赵靖	133-2345-5767',
+        advantage: ''
+    },
+    {
+        key: '213',
+        name: '钢绞线',
+        factory: '暂无',
+        address: '河北沧州',
+        contacts: '纪晓敏	13731750515',
+        advantage: ''
+    },
+    {
+        key: '214',
+        name: '喷漆加工',
+        factory: '暂无',
+        address: '静海',
+        contacts: '马先生 13352062188',
+        advantage: ''
+    },
+
 ]
 
 export default originData
